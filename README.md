@@ -9,16 +9,18 @@
 - **LinkedIn:** [Let's Connect!](linkedin.com/in/sai-raghu-teja-davuluri)
 - **GitHub:** [Check Out My Code!](github.com/yourgithubusername)
 
+### Talk to my Chatbot to know more about me!! [CLICK HERE](https://tejadavuluri.streamlit.app/)
+
 ## Hey There, Data Dreamer! 👋
 Welcome to my data wonderland, where numbers come to life and insights are served with a side of Python! I'm Sai Raghu Teja, your friendly neighborhood data scientist. With a Master's in Data Science from the University of San Francisco and over 3.5 years of experience in unraveling the mysteries of data, I'm here to turn your data dilemmas into delightful discoveries!
 
-## Professional Adventures 🚀
-- **Data Scientist at Isazi:** Where I danced with data and tamed the wild beasts of retail analytics.
-- **Data Sorcerer at Merkle:** Conjured up magical marketing solutions and banished churn rates with my wand... erm, I mean, with data-driven insights!
+## Professional Experience
+- **Data Scientist at Isazi**: Delved into intricate data analysis projects and leveraged large language models for real-time precision in retail analytics.
+- **Data Scientist at Merkle**: Led initiatives to enhance marketing effectiveness, reduce churn rate, and boost return on ad spend through data-driven solutions.
 
 ## Education
-- **Master of Science in Data Science:** University of San Francisco, Class of '24 🎓
-- **Bachelor of Technology:** Manipal Institute of Technology, India, Class of '21 🎒
+- **Master of Science in Data Science**: University of San Francisco, Class of '24
+- **Bachelor of Technology**: Manipal Institute of Technology, India, Class of '21
 
 ## Skills that Make the Data Dance 💃
 ### Programming/Visualization:
