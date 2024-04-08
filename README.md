@@ -3,9 +3,7 @@
 ## About Me
 - **Name:** Sai Raghu Teja Davuluri
 - **Location:** San Francisco, CA 🌉
-- **Contact:** 
-  - Phone: +1 (415)-967-9463 
-  - Email: tejdavuluri.12@gmail.com
+- **Email:** tejdavuluri.12@gmail.com
 - **LinkedIn:** [Let's Connect!](linkedin.com/in/sai-raghu-teja-davuluri)
 - **GitHub:** [Check Out My Code!](github.com/yourgithubusername)
 
